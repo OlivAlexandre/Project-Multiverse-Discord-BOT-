@@ -1,0 +1,13 @@
+{
+    "nome_comando": "(comando-diário)",
+    "tipo_comando": "daily",
+    "texto_inicial": "Você rodou a roleta e obteve . . .",
+    "sufixo": "pontos para distribuir (ou outra coisa)",
+    "premios": [
+        {
+            "valor": "Valor do prêmio",
+            "chance": 999.99,
+            "imagem": "https://link.com/premio.png"
+        }
+    ]
+}

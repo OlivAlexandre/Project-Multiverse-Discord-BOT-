@@ -1,0 +1,91 @@
+{
+    "nome_comando": "(comando do clima (ex.: clima-dia))",
+    "tipo_comando": "random",
+    "tipo_arquivo": "clima",
+    "texto_inicial": "BOM DIA!!!",
+    "hora_inicial": "dia, noite...",
+    "emoji_hora": "emoji do horário (ex.: ☀️, 🌙...)",
+    "climas": [
+        {
+            "emoji": "(algum emoji do clima escolhido)",
+            "frase": "(alguma frase foda ae do clima)",
+            "chance": 999.999,
+            "temperatura": "Temperatura de 00ºC / Umidade de 00%... (você decide como estará)",
+            "efeitos": "(efeito dos climas)",
+            "curiosidade": "(alguma curiosidade do clima ae)",
+            "imagem": "https://link.com/item.png"
+        },
+        {
+            "emoji": "(algum emoji do clima escolhido)",
+            "frase": "(alguma frase foda ae do clima)",
+            "chance": 999.999,
+            "temperatura": "Temperatura de 00ºC / Umidade de 00%... (você decide como estará)",
+            "efeitos": "(efeito dos climas)",
+            "curiosidade": "(alguma curiosidade do clima ae)",
+            "imagem": "https://link.com/item.png"
+        },
+        {
+            "emoji": "(algum emoji do clima escolhido)",
+            "frase": "(alguma frase foda ae do clima)",
+            "chance": 999.999,
+            "temperatura": "Temperatura de 00ºC / Umidade de 00%... (você decide como estará)",
+            "efeitos": "(efeito dos climas)",
+            "curiosidade": "(alguma curiosidade do clima ae)",
+            "imagem": "https://link.com/item.png"
+        },
+        {
+            "emoji": "(algum emoji do clima escolhido)",
+            "frase": "(alguma frase foda ae do clima)",
+            "chance": 999.999,
+            "temperatura": "Temperatura de 00ºC / Umidade de 00%... (você decide como estará)",
+            "efeitos": "(efeito dos climas)",
+            "curiosidade": "(alguma curiosidade do clima ae)",
+            "imagem": "https://link.com/item.png"
+        },
+        {
+            "emoji": "(algum emoji do clima escolhido)",
+            "frase": "(alguma frase foda ae do clima)",
+            "chance": 999.999,
+            "temperatura": "Temperatura de 00ºC / Umidade de 00%... (você decide como estará)",
+            "efeitos": "(efeito dos climas)",
+            "curiosidade": "(alguma curiosidade do clima ae)",
+            "imagem": "https://link.com/item.png"
+        },
+        {
+            "emoji": "(algum emoji do clima escolhido)",
+            "frase": "(alguma frase foda ae do clima)",
+            "chance": 999.999,
+            "temperatura": "Temperatura de 00ºC / Umidade de 00%... (você decide como estará)",
+            "efeitos": "(efeito dos climas)",
+            "curiosidade": "(alguma curiosidade do clima ae)",
+            "imagem": "https://link.com/item.png"
+        },
+        {
+            "emoji": "(algum emoji do clima escolhido)",
+            "frase": "(alguma frase foda ae do clima)",
+            "chance": 999.999,
+            "temperatura": "Temperatura de 00ºC / Umidade de 00%... (você decide como estará)",
+            "efeitos": "(efeito dos climas)",
+            "curiosidade": "(alguma curiosidade do clima ae)",
+            "imagem": "https://link.com/item.png"
+        },
+        {
+            "emoji": "(algum emoji do clima escolhido)",
+            "frase": "(alguma frase foda ae do clima)",
+            "chance": 999.999,
+            "temperatura": "Temperatura de 00ºC / Umidade de 00%... (você decide como estará)",
+            "efeitos": "(efeito dos climas)",
+            "curiosidade": "(alguma curiosidade do clima ae)",
+            "imagem": "https://link.com/item.png"
+        },
+        {
+            "emoji": "(algum emoji do clima escolhido)",
+            "frase": "(alguma frase foda ae do clima)",
+            "chance": 999.999,
+            "temperatura": "Temperatura de 00ºC / Umidade de 00%... (você decide como estará)",
+            "efeitos": "(efeito dos climas)",
+            "curiosidade": "(alguma curiosidade do clima ae)",
+            "imagem": "https://link.com/item.png"
+        }
+    ]
+}

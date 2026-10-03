@@ -1,0 +1,17 @@
+{
+    "nome_comando": "(comando)",
+    "tipo_comando": "mineração",
+    "texto_inicial": "Você está minerando nas minas de (----)!",
+    "config_random": {
+        "itens": [
+            {
+                "nome": "Item",
+                "raridade": "Comum/Incomum/Raro/Épico/Lendário",
+                "chance": 999.99,
+                "nivel_picareta": "nível",
+                "curiosidade": "Curiosidade do item",
+                "imagem": "https://link.com/item.png"
+            }
+        ]
+    }
+}
